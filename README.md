@@ -1,6 +1,6 @@
 # Juice Blocks -- with a Gutenberg Query Builder + More
 
-This project brings a post type query builing block to the WordPress Gutenberg editor.
+This project brings a post type query building block to the WordPress Gutenberg editor.
 
 ## Features
 
@@ -9,7 +9,8 @@ This project brings a post type query builing block to the WordPress Gutenberg e
 
 # Requirements
 
-Node 8+
+Node 14+
+Python 2.7 (3.x not supported)
 
 # Setup
 
