@@ -17,7 +17,6 @@ Download this folder into your plugins directory
 
 ```
 cd /wp-content/plugins/juiceblocks/
-```
 npm install
 ```
 To start developing
