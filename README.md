@@ -14,7 +14,7 @@ Python 2.7 (3.x not supported)
 
 # Setup
 
-Download this folder into your plugins directory
+Download this project into your WordPress plugins directory
 
 ```
 cd /wp-content/plugins/juiceblocks/

@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: WCN Block Two
- * Plugin URI: https://www.westcounty.com/
- * Description: A Gutenberg blocks plugin created by West County Net.
- * Author: Marty McGee, Julian Wilson Holmes
- * Author URI: https://www.westcounty.com/
- * Version: 0.4.1
+ * Plugin Name: Juice Blocks
+ * Plugin URI: https://companyjuice.com/
+ * Description: A Gutenberg blocks plugin with Post Type Query Builder.
+ * Author: Marty McGee
+ * Author URI: https://companyjuice.com/
+ * Version: 1.0.1
  * License: GPL-3.0+
  * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  *
